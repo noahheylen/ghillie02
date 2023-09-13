@@ -1,0 +1,13 @@
+.text{
+  width: 50%;
+
+  text-align: justify;
+  position: absolute;
+
+  font-size: 15px;
+  text-justify: inter-word;
+}
+.soundtrack{
+    font-size: 25px;
+    font-family: fantasy;
+}
